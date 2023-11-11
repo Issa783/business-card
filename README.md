@@ -1,5 +1,7 @@
 # Digital Business Card
 Welcome to Digital Business Card project!This is a card that basically shows personal information and interesting things that Laura Smith loves.
+
+Here is the live link of the Readme file: https://github.com/Issa783/business-card/blob/master/README.md
 ## Tools
 The website is developed using;
 - HTML5
